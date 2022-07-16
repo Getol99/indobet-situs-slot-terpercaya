@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "indobet-situs-slot-terpercaya:toggle"
   },
-  "repository": "https://github.com/atom/indobet-situs-slot-terpercaya.git",
+  "repository": "https://github.com/Getol99/indobet-situs-slot-terpercaya",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
